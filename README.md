@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Brain%20MRI%20Classification&fontSize=30&fontColor=ffffff"/>
+link of b end and streemleet f end :https://huggingface.co/spaces/jarvisemitra/braintumer                                                                           <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=140&section=header&text=Brain%20MRI%20Classification&fontSize=30&fontColor=ffffff"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Brain+Tumor+Detection;Deep+Learning+Model;Real+Time+Prediction;Medical+AI+System&center=true&width=500&height=40">
